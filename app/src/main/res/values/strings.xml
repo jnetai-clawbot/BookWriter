@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BookWriter</string>
+    <string name="title_activity_main">BookWriter</string>
+    <string name="title_activity_book_detail">Book Detail</string>
+    <string name="title_activity_chapter_edit">Edit Chapter</string>
+    <string name="title_activity_character_edit">Edit Character</string>
+    <string name="title_activity_worldbuilding_edit">Edit World Note</string>
+    <string name="title_activity_timer">Writing Timer</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_export">Export</string>
+</resources>
